@@ -1,4 +1,4 @@
 1. Name: Tobi Awosola
-   Description: I'm an IT Instructor, I'm base in Abeokuta, Nigeria.
+   Descriptions: I'm an IT Instructor, I'm base in Abeokuta, Nigeria.
 
 2. 
