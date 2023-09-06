@@ -1,5 +1,5 @@
 1. Name: Tobi Awosola
-   Descriptions: I'm an IT Instructor, I'm base in Abeokuta, Nigeria.
+   Descriptions: I'm an IT Instructor, I'm based in Ogun, Nigeria.
 
 2. Name: Adekunle Ibukunoluwa
    Description: Im a React Developer, based in Ibadan, Nigeria.
