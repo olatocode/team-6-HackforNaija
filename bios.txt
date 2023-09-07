@@ -1,5 +1,4 @@
-1. Name: Tobi Awosola
-   Descriptions: I'm an IT Instructor, I'm based in Ogun, Nigeria.
+1. Name: Rachael Adesina
+   Descriptions: I'm a lab project manager
+    for discovery chemistry. I'm based in Dallas, TX
 
-2. Name: Adekunle Ibukunoluwa
-   Description: Im a React Developer, based in Ibadan, Nigeria.
