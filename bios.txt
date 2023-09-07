@@ -3,3 +3,6 @@
 
 2. Name: Adekunle Ibukunoluwa
    Description: Im a React Developer, based in Ibadan, Nigeria.
+
+3. Name: Rachael Adesina
+   Description: I'm a lab project manager based in Dallas, TX
