@@ -9,3 +9,6 @@
 
 4. Name: Iyanuoluwa Oyerinde
 Description: I'm a frontend developer based in Ibadan, Nigeria.
+
+5. Name: Funke Osae-Brown
+   Description: I am a journalist, social media manager and content creator.
