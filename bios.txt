@@ -6,3 +6,6 @@
 
 3. Name: Rachael Adesina
    Description: I'm a lab project manager based in Dallas, TX
+
+4. Name: Iyanuoluwa Oyerinde
+Description: I'm a frontend developer based in Ibadan, Nigeria.
